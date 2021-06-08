@@ -41,7 +41,7 @@ incremental==17.5.0
 msgpack-python==0.4.8
 oauthlib==2.0.2
 olefile==0.44
-Pillow==4.2.1
+Pillow==8.2.0
 postgis==1.0.4
 psycopg2==2.7.1
 pyproj==1.9.5.1
